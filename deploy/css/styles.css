@@ -415,13 +415,16 @@ header #searchbar > div {
 /* =============
     classes
 ============= */
-#classes {
+#classes aside {
   display: grid;
   grid-template-columns: 16px auto 16px;
   grid-template-areas: ". classes .";
 }
-#classes > div {
+#classes aside > div {
+  background-color: rgb(51, 193, 201);
   grid-area: classes;
+  display: grid;
+  grid-template-columns: 70% auto;
 }
 
 /* =============
