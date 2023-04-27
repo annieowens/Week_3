@@ -344,40 +344,40 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/content\/articles.html",
-      "oF" : 1
+      "oAP" : "\/dev\/content\/articles.kit",
+      "oF" : 3
     },
     "\/dev\/content\/classes.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/content\/classes.html",
-      "oF" : 1
+      "oAP" : "\/dev\/content\/classes.kit",
+      "oF" : 3
     },
     "\/dev\/content\/gallery.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/content\/gallery.html",
-      "oF" : 1
+      "oAP" : "\/dev\/content\/gallery.kit",
+      "oF" : 3
     },
     "\/dev\/content\/hero.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/content\/hero.html",
-      "oF" : 1
+      "oAP" : "\/dev\/content\/hero.kit",
+      "oF" : 3
     },
     "\/dev\/content\/recipe.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/content\/recipe.html",
-      "oF" : 1
+      "oAP" : "\/dev\/content\/recipe.kit",
+      "oF" : 3
     },
     "\/dev\/global\/footer.kit" : {
       "cB" : 0,
