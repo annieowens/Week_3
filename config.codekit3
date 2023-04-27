@@ -9,6 +9,14 @@
   ],
   "creatorBuild" : "34472",
   "files" : {
+    "\/.gitattributes" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/.gitattributes",
+      "oF" : 0
+    },
     "\/Assets\/redesign_2.fig" : {
       "cB" : 0,
       "ft" : 8192,
@@ -16,6 +24,66 @@
       "oA" : 0,
       "oAP" : "\/Assets\/redesign_2.fig",
       "oF" : 0
+    },
+    "\/deploy\/css\/_articles.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/deploy\/css\/_articles-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/deploy\/css\/_classes.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/deploy\/css\/_classes-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/deploy\/css\/_gallery.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/deploy\/css\/_gallery-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/deploy\/css\/_hero.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/deploy\/css\/_hero-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/deploy\/css\/_recipe.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/deploy\/css\/_recipe-min.css",
+      "oF" : 0,
+      "pg" : 0
     },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,
@@ -275,41 +343,41 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/content\/articles.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/content\/classes.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/content\/classes.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/content\/gallery.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/content\/gallery.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/content\/hero.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/content\/hero.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/content\/recipe.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/content\/recipe.html",
-      "oF" : 0
+      "oF" : 1
     },
     "\/dev\/global\/footer.kit" : {
       "cB" : 0,
@@ -358,7 +426,7 @@
       "mi" : 1,
       "oA" : 0,
       "oAP" : "\/deploy\/js\/scripts-min.js",
-      "oF" : 2,
+      "oF" : 3,
       "sC" : 3,
       "tS" : 0
     },
@@ -520,9 +588,9 @@
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_articles.css",
-      "oF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/css\/_articles.css",
+      "oF" : 3,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
@@ -535,9 +603,9 @@
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_classes.css",
-      "oF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/css\/_classes.css",
+      "oF" : 3,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
@@ -550,9 +618,9 @@
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_gallery.css",
-      "oF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/css\/_gallery.css",
+      "oF" : 3,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
@@ -565,9 +633,9 @@
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_hero.css",
-      "oF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/css\/_hero.css",
+      "oF" : 3,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
@@ -580,9 +648,9 @@
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_recipe.css",
-      "oF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/css\/_recipe.css",
+      "oF" : 3,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
@@ -611,7 +679,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 702560800.42181301,
-    "displayValue" : "HTML-Week-2",
+    "displayValue" : "Week_3",
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "brackets_gray",
     "iconImageWasSetByUser" : 0
