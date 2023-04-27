@@ -387,6 +387,7 @@ header #searchbar > div {
   display: grid;
   grid-template-columns: 16px auto 16px;
   grid-template-areas: ". footer .";
+  background-color: aquamarine;
 }
 #footer > div {
   grid-area: footer;
