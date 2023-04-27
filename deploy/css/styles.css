@@ -419,9 +419,9 @@ header #searchbar > div {
   display: grid;
   grid-template-columns: 16px auto 16px;
   grid-template-areas: ". classes .";
+  background-color: rgb(51, 193, 201);
 }
 #classes aside > div {
-  background-color: rgb(51, 193, 201);
   grid-area: classes;
   display: grid;
   grid-template-columns: 70% auto;
@@ -433,11 +433,15 @@ header #searchbar > div {
 /* =============
     articles
 ============= */
-#articles {
-  display: grid;
-  grid-template-columns: 36px auto 36px;
-  grid-template-areas: ". articles .";
+#articles section img {
+  width: 100%;
 }
-#articles > div {
-  grid-area: articles;
+#articles #card {
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  grid-template-areas: ". card .";
+  background-color: rgb(129, 194, 194);
+}
+#articles #card > div {
+  grid-area: card;
 }
