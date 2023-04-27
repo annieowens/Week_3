@@ -1,0 +1,13 @@
+/* =============
+    recipe
+============= */
+#recipe{
+    display: grid;
+    grid-template-columns: 26px auto 16px;
+    grid-template-areas: "recipe";
+
+   
+    >div{
+        grid-area: recipe ;
+    }
+ }

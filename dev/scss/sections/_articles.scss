@@ -1,0 +1,12 @@
+/* =============
+    articles
+============= */
+#articles{
+        display: grid;
+        grid-template-columns: 36px auto 36px;
+        grid-template-areas: ". articles .";
+    
+        >div{
+            grid-area: articles ;
+        }
+}
